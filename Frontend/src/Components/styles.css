@@ -1,0 +1,417 @@
+.head3
+{
+    font-style:oblique;
+    color:green;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+}
+.head5
+{
+    margin: 10px;
+}
+.registerpage
+{
+    margin: 20px;
+    padding: 30px;
+    transition: box-shadow 0.3s ease;
+}
+.registerpage:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.butons
+{
+    text-align: center;
+}
+.loginpage
+{
+    margin-left: 250px;
+    width: 900px;
+    padding: 30px;
+    transition: box-shadow 0.3s ease;
+}
+.loginpage:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.tabless
+{
+    width: 900px;
+    margin-left: 150px;
+    padding: 30px;
+    transition: box-shadow 0.3s ease;
+}
+.tabless:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.table1
+{
+    width: 1300px;
+    height: 600px;
+    margin-left: 20px;
+    padding:20px;
+    transition: box-shadow 0.3s ease;
+}
+.table1:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.tdimg
+{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightgrey;
+    border-radius:20%;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap */
+    justify-content: center; /* Center cards in the container */
+    margin: 20px; /* Margin around the container */
+}
+
+.crop-card {
+    width: 18rem; /* Set a fixed width for the cards */
+    margin: 10px; /* Space between cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+    transition: transform 0.2s; /* Smooth scaling effect on hover */
+}
+
+.crop-card:hover {
+    transform: scale(1.05); /* Scale effect on hover */
+}
+
+.crop-card img {
+    height: 200px; /* Set a fixed height for images */
+    object-fit: cover; /* Cover the space without stretching */
+}
+.btns
+{
+    margin-left:70px;
+}
+.table2
+{
+    width: 500px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin-left: 450px;
+    text-align: center;
+}
+.table3
+{
+    width: 700px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin-left: 350px;
+    text-align: center;
+}
+.soil1
+{
+    border-radius: 50%;
+    margin-left: 550px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height:200px;
+    transition: box-shadow 0.3s ease; 
+}
+.soil2
+{
+    border-radius: 50%;
+    margin-left: 780px;
+    margin-top: -90px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height:200px;
+    transition: box-shadow 0.3s ease; 
+}
+.soil3
+{
+    border-radius: 50%;
+    margin-left: 850px;
+    margin-top: -10px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height:200px;
+    transition: box-shadow 0.3s ease; 
+}
+.soil4
+{
+    border-radius: 50%;
+    margin-left: 650px;
+    margin-top: -70px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height:200px;
+    transition: box-shadow 0.3s ease; 
+}
+.soil5
+{
+    border-radius: 50%;
+    margin-left: 380px;
+    margin-top: -400px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height:200px;
+    transition: box-shadow 0.3s ease; 
+}
+.soil6
+{
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-top: -800px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height:200px;
+    transition: box-shadow 0.3s ease; 
+}
+.soil7
+{
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: -800px;
+    border: 2px solid lightgray;
+    width: 200px;
+    height:200px;
+    transition: box-shadow 0.3s ease; 
+}
+.imges
+{
+    width:1350px;
+    background-color: black;
+    height: 1500px;
+    color: white;
+    margin-top: -0.5px;
+    padding-top: 20px;
+}
+.soil1:hover{
+    box-shadow: 0 4px 20px lightgray(0, 0.8, 0.5, 0.6); 
+    transform: scale(1.1);
+}
+.soil2:hover{
+    box-shadow: 0 4px 20px lightgray(0, 0.8, 0.5, 0.6); 
+    transform: scale(1.1);
+}
+.soil3:hover:hover{
+    box-shadow: 0 4px 20px lightgray(0, 0.8, 0.5, 0.6); 
+    transform: scale(1.1);
+}
+.soil4:hover{
+    box-shadow: 0 4px 20px lightgray(0, 0.8, 0.5, 0.6); 
+    transform: scale(1.1);
+}
+.soil5:hover{
+    box-shadow: 0 4px 20px lightgray(0, 0.8, 0.5, 0.6); 
+    transform: scale(1.1);
+}
+.soil6:hover{
+    box-shadow: 0 4px 20px lightgray(0, 0.8, 0.5, 0.6); 
+    transform: scale(1.1);
+}
+.soil7:hover{
+    box-shadow: 0 4px 20px lightgray(0, 0.8, 0.5, 0.6); 
+    transform: scale(1.1);
+}
+.table4
+{
+    border: 1px solid lightgray;
+    margin: 20px;
+    border-radius: 20px;
+    transition: box-Shadow 0.3s ease;
+}
+.table4:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.stateinfo
+{
+    width: 600px;
+    margin: 20px;
+    padding: 10px;
+    transition: box-Shadow 0.3s ease;
+}
+.stateinfo:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.statetable
+{
+    margin-left: 700px;
+    width:600px;
+    margin-top: -250px;
+    transition: box-shadow 0.3s ease;
+}
+.statetable:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.cityinfo
+{
+    width: 600px;
+    margin-left: 20px;
+    padding: 10px;
+    transition: box-shadow 0.3s ease;
+}
+.cityinfo:hover{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.citytable
+{
+        margin-left: 700px;
+        width:600px;
+        margin-top: -350px;
+        transition: box-shadow 0.3s ease;
+}
+.citytable:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.commodityinfo
+{
+    width: 900px;
+    margin-left: 250px;
+    padding: 10px;
+    transition:box-shadow 0.3s ease;
+}
+.commodityinfo:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.commoditytable
+{
+        margin-left: 250px;
+        width:900px;
+        transition: box-shadow 0.3s ease;
+}
+.commoditytable:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.categoryinfo
+{
+    width: 600px;
+    margin-left: 350px;
+    padding: 10px;
+    transition: box-shadow 0.3s ease;
+}
+.categoryinfo:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.categorytable
+{
+        margin-left: 350px;
+        width:600px;
+        border: 1px solid lightgray;
+        border-radius: 20px;
+        transition: box-shadow 0.3s ease;
+}
+.categorytable:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); 
+}
+.newsinfo
+{
+    width: 600px;
+    margin: 20px;
+    padding: 10px;
+    transition: box-shadow 0.3s ease;
+}
+.newsinfo:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.newstable
+{
+    margin-left: 660px;
+    width:650px;
+    margin-top: -380px;
+   transition: box-shadow 0.3s ease;
+}
+.newstable:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.agriofficeinfo
+{
+    width: 900px;
+    margin-left: 250px;
+    padding: 10px;
+    transition: box-shadow 0.3s ease;
+}
+.agriofficeinfo:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.agriofficetable
+{
+    margin-left: 200px;
+    width:1000px;
+    transition: box-shadow 0.3s ease;
+}
+.agriofficetable:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.complaintstatustable
+{
+    margin-left: 150px;
+}
+.cardbody
+{
+    margin-left:350px;
+    margin-top: -400px;
+}
+.mapimg
+{
+    margin-top:-60px;
+}
+.feedbackinfo
+{
+    width: 600px;
+    border: 1px solid lightgray;
+    margin-left: 430px;
+    border-radius: 20px;
+    padding: 10px;
+    transition: box-shadow 0.3s ease;
+}
+.feedbackinfo:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.agrioffinfo
+{
+    width: 600px;
+    border: 1px solid lightgray;
+    margin-left: 450px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.searchinfo
+{
+    width: 600px;
+    border: 1px solid lightgray;
+    margin-left: 350px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.viewcomminfo
+{
+    width: 600px;
+    border: 1px solid lightgray;
+    margin-left: 350px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.viewcommtable
+{
+        margin-left: 300px;
+        width:800px;
+        margin-top: 20px;
+        transition: box-shadow 0.3s ease;
+}
+.viewcommtable:hover
+{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
